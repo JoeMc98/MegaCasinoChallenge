@@ -1,0 +1,44 @@
+﻿body 
+{
+    text-align: center;
+    background-color: #1f3ee6;
+    color: white;
+    font-family: "Eras Bold ITC", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#imgOne, #imgTwo, #imgThree
+{
+    background-color: black;
+    margin: 20px 10px 0px 10px;
+    border-radius: 10px;
+}
+
+.cherry
+{
+    color: #e94141;
+}
+
+.jackpot
+{
+    color: goldenrod;
+}
+
+.however
+{
+    color: black;
+}
+
+#btnPullLever
+{
+    background-color: #e94141;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+}
+
+#btnPullLever:hover
+{
+    background-color: white;
+    color: lightslategray;
+}
